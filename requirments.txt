@@ -2,3 +2,7 @@ This is chat application requirments .....
 
 netx steps here
  goes 
+
+
+sEND mONEY
+ REcieve money....
