@@ -6,3 +6,8 @@ netx steps here
 
 sEND mONEY
  REcieve money....
+
+
+send message 
+
+recieve emails
